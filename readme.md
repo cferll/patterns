@@ -4,5 +4,6 @@ R1. Handler
 R2. Composite
 R3. Strategy
 R4. Observer
-R5. ?
-R6. Command
+R5. Command
+R6. Iterator
+
